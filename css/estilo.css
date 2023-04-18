@@ -21,7 +21,7 @@ header{
     padding-top: 5px;
 }
 
-@media(min-width: 320px) and (max-width: 450px){
+@media(min-width: 320px) and (max-width: 850px){
     
     header{
         text-align: center;
@@ -191,7 +191,7 @@ nav.menu-lateral{
     transition: all 300ms ease-in-out;
 }
 
-@media(min-width: 320px) and (max-width: 450px){
+@media(min-width: 320px) and (max-width: 850px){
 
     nav.menu-lateral{
     width: 80px;
