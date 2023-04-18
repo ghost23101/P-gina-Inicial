@@ -123,10 +123,10 @@ h1{
         text-align: center;
         padding-top: 10px;
         margin-right: 17px;
+        margin-top: 105px;
         padding-bottom: 10px;
         font-size: 80px;
         color: rgba(20, 96, 200, 1.0);
-        background-color: rgba();
         
     }
 
@@ -218,7 +218,7 @@ nav.menu-lateral.expandir{
 }
 
 .btn-expandir > i{
-    color: #fff;
+    color: rgba(126, 185, 242, 1.0);
     font-size: 24px;
     cursor: pointer;
     margin-right: 15px;
@@ -227,10 +227,10 @@ nav.menu-lateral.expandir{
 @media(min-width: 320px) and (max-width: 950px){
 
     .btn-expandir > i{
-        color: #fff;
+        color: rgba(126, 185, 242, 1.0);
         font-size: 24px;
         cursor: pointer;
-        margin-right: 18px;
+        margin-right: 23px;
     }   
 }
 
@@ -257,7 +257,7 @@ ul li.item-menu:hover{
 ul li.item-menu a{
     color: #fff;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     padding: 20px 4%;
     display: flex;
     line-height: 19px;
@@ -290,6 +290,7 @@ nav.menu-lateral.expandir .txt-link{
 ul li.item-menu a .icon > i{
     font-size: 22px;
     margin-left: 12px;
+    color: rgba(126, 185, 242, 1.0);
 }
 
 #quemsomo{
@@ -308,13 +309,14 @@ a:hover{
     border-radius: 20px;
     margin-left: 12rem;
     margin-top: 50px;
+    
 }
 
 @media(min-width: 320px) and (max-width: 950px){
     #fototopo{
         position: relative;
-        margin-left: 20px;
-        margin-top: 50px;
+        margin-left: 31px;
+        margin-top: 20px;
         float: center;
     }
 }
@@ -340,6 +342,7 @@ a:hover{
     height: 11rem;
     border-radius: 20px;
     border: solid 3px #000;
+    background-color: #fff;
     margin-bottom: 25px;
 }
 
@@ -364,7 +367,7 @@ a:hover{
     background-color: #000;
     border-radius: 20px;
     padding: 5px;
-    color: #fff;
+    color: rgba(126, 185, 242, 1.0);
 }
 
 .topi{
